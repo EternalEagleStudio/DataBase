@@ -1,7 +1,7 @@
 # DataBase
 数据库
 
-为连接Supabase(SQL为PostgreSQL)而创立
+为连接Supabase(SQL为PostgreSQL)而创立本 数据库 。
 
 
 
