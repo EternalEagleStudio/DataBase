@@ -1,6 +1,8 @@
 # DataBase
 数据库
 
+为连接Supabase(SQL为PostgreSQL)而创立
+
 
 
 
